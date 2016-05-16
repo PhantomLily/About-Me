@@ -1,0 +1,48 @@
+body{ 
+    background-image: url("http://wallpapersend.com/wp-content/uploads/2016/02/light-color-wallpapers208961.jpg"); 
+    background-repeat: 4;
+    background- position:"top-right ";
+    text-align: center;
+    
+} 
+p{ 
+    font-size: 15;
+} 
+
+.nav > div {
+  background: mediumaquamarine;
+  float: left; 
+  margin: 10px;
+  padding: 10px;
+  height: 25px;
+  border: 5px solid steelblue;
+  border-radius:4px;
+  text-align:center;
+   margin: 0;
+   font-size: 20px; 
+   text-align:center;
+}
+.nav > a:hover { 
+background: cornflowerblue;
+}
+.nav{
+  margin: 0;
+text-align:center ;   
+font-size: 20px; 
+}
+.nav > a {
+  background: mediumaquamarine;
+  float: left; 
+  margin: 10px;
+  padding: 10px;
+  height: 25px;
+  border: 5px solid steelblue;
+  border-radius:4px;
+  text-align:center;
+  text-decoration:none;
+  color:white;
+}
+
+
+
+
