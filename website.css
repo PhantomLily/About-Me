@@ -44,6 +44,20 @@ font-size: 20px;
   color:white;
 }
 
-
+h1 {
+color: lightseagreen;
+font-style: oblique;
+font-size: 30px;
+}
+h2 {
+color :mediumpurple ;
+font-style: italic;
+font-size: 25px;
+}
+h3 {
+color :lightcoral ;
+font-style: italic;
+font-size: 20px;
+}
 
 
